@@ -1,0 +1,5 @@
+Link para o download do Git 
+https://git-scm.com/downloads
+
+Informações sobre o Mardown
+https://www.markdownguide.org/basic-syntax/
