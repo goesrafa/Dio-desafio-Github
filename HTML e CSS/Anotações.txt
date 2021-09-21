@@ -1,0 +1,2 @@
+A importancia de se utilizar tanto o HTML quanto o CSS no projeto que você esta desenvolvendo, é que ficara mais dinamico para o usuário final, pois com o HTML você cria a página e com o CSS você da uma estilizada para não ficar tudo de forma "desorganizada" e "jogada" no meio do teu site 
+
